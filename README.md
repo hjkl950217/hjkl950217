@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 程序菜鸡但酷爱享受编程世界中创造的快乐，指尖上的艺术。
 - 喜欢研究数码设备，欢迎小伙伴讨论搞♂机经验
 - 微距摄影 MVP of CD-NSU
-- BibiliLv.6精神UP主
+- Bibili Lv.6精神UP主
 
 ## Star趋势
 | [learningTest](https://github.com/hjkl950217/learningTest) |
