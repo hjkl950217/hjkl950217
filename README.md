@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-[![hjkl950217's github stats](https://github-readme-stats.vercel.app/api?username=hjkl950217&show_icons=true&icon_color=66ccff&text_color=66ccff&bg_color=ffffff&count_private=true&include_all_commits=true&hide_title=false)](https://github.com/hjkl950217)
+[![hjkl950217's github stats](https://github-readme-stats.vercel.app/api?username=hjkl950217&show_icons=true&icon_color=66ccff&text_color=24292e&bg_color=ffffff&count_private=true&include_all_commits=true&hide_title=false)](https://github.com/hjkl950217)
 
 ### Hi 朋友 👋
 
