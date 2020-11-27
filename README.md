@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 长空，男，95后，程序猿，IT一家人天使投资人，STN、Bibili股东，微软、阿里巴巴、腾讯、拼多多、京东等集团战略合作伙伴。
 - 程序菜鸡但酷爱享受编程世界中创造的快乐，指尖上的艺术。
 - 喜欢研究数码设备，欢迎小伙伴讨论搞♂机经验
-- 微距摄影 MVP of CD-NSU
+- 微距摄影 MVP 之一 of CD-NSU
 - Bibili Lv.6精神UP主
 
 ## Star趋势
