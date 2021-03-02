@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - 微距摄影 MVP 之一 of CD-NSU
 - Bibili Lv.6精神UP主
 
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 ## Star趋势
 | [learningTest](https://github.com/hjkl950217/learningTest) |
 |  ----  |
