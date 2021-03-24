@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hjkl950217"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hjkl950217?theme=rule34"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
