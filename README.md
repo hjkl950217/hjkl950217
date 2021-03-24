@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:hjkl950217"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
+
 ![长空X's github stats](https://github-readme-stats.vercel.app/api?username=hjkl950217&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkl950217&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 ![主要使用语言](https://github-profile-trophy.vercel.app/?username=ldqk&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
