@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![hjkl950217's github stats](https://github-readme-stats.vercel.app/api?username=hjkl950217&show_icons=true&icon_color=66ccff&text_color=24292e&bg_color=ffffff&count_private=true&include_all_commits=true&hide_title=false)](https://github.com/hjkl950217)
+![长空X's github stats](https://github-readme-stats.vercel.app/api?username=hjkl950217&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=hjkl950217&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+![主要使用语言](https://github-profile-trophy.vercel.app/?username=ldqk&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ### Hi 朋友 👋
 
@@ -24,9 +26,7 @@ Here are some ideas to get you started:
 - 微距摄影 MVP 之一 of CD-NSU
 - Bibili Lv.6精神UP主
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
-</div>
+
 
 ## Star趋势
 | [learningTest](https://github.com/hjkl950217/learningTest) |
