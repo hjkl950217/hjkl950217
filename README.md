@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 | [learningTest](https://github.com/hjkl950217/learningTest) |
 |  ----  |
 | <img src="https://starchart.cc/hjkl950217/learningTest.svg"> |
+
+![提交记录](https://activity-graph.herokuapp.com/graph?username=hjkl950217&theme=github-light&custom_title=%E6%9C%80%E8%BF%9130%E5%A4%A9%E7%9A%84%E6%8F%90%E4%BA%A4%E8%AE%B0%E5%BD%95)
+### 我的GitHub Contributions日历
+![](/assets/github-contribution-grid-snake.svg)
