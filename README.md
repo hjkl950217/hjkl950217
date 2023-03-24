@@ -40,4 +40,5 @@ Here are some ideas to get you started:
 | <img src="https://starchart.cc/hjkl950217/learningTest.svg"> |
 
 ### 我的GitHub Contributions日历
+- PS：这个日历需要科学上网才能看到
 ![](/assets/github-contribution-grid-snake.svg)
